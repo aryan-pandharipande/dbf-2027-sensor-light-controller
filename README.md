@@ -7,12 +7,11 @@ Light controller PCB for the towed sensor on the 2027 AIAA Design/Build/Fly airc
 - **PCB tool:** KiCad 10 (two-layer board)
 - **Connectors:** JST PH 2-pin. J1 battery, J2 towline, J3/J4/J5 forward/center/aft light arrays
 
-![PCB in 3D View](<img width="1280" height="763" alt="Screenshot 2026-09-23 170502" src="https://github.com/user-attachments/assets/c24b274d-cd3b-4aed-a361-460250807eaf" />)
+![PCB in 3D View](https://github.com/user-attachments/assets/c24b274d-cd3b-4aed-a361-460250807eaf)
 
-![PCB in KiCAD](<img width="1280" height="766" alt="Screenshot 2026-09-23 170355" src="https://github.com/user-attachments/assets/ec0c8e67-deb9-4d24-8c51-105c0cc0711f" />
-)
-![PCB in Onshape](<img width="1280" height="669" alt="Screenshot 2026-09-24 162343" src="https://github.com/user-attachments/assets/b6f36511-817d-4884-a52e-ea2aaab788af" />
-)
+![PCB in KiCAD](https://github.com/user-attachments/assets/ec0c8e67-deb9-4d24-8c51-105c0cc0711f)
+
+![PCB in Onshape](https://github.com/user-attachments/assets/b6f36511-817d-4884-a52e-ea2aaab788af)
 ## Repository layout
 dbf-sensor-lights/
 ├── README.md                     (overview, schematic image, layout table, TODO)
