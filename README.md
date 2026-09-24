@@ -1,4 +1,4 @@
-# DBF Sensor Lights Controller
+# Sensor Lights Controller for AIAA Design Build Fly Competition 2027 Problem Statement
 
 Light controller PCB for the towed sensor on the 2027 AIAA Design/Build/Fly aircraft.
 
