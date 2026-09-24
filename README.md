@@ -7,9 +7,26 @@ Light controller PCB for the towed sensor on the 2027 AIAA Design/Build/Fly airc
 - **PCB tool:** KiCad 10 (two-layer board)
 - **Connectors:** JST PH 2-pin. J1 battery, J2 towline, J3/J4/J5 forward/center/aft light arrays
 
-![Schematic](docs/images/schematic.png)
-
+![PCB in 3D View](<img width="1280" height="763" alt="Screenshot 2026-09-23 170502" src="https://github.com/user-attachments/assets/953d8ac7-fedd-49ed-abf6-9d3300efac92" />
+)
+![PCB in KiCAD](<img width="1280" height="766" alt="Screenshot 2026-09-23 170355" src="https://github.com/user-attachments/assets/821c01bc-180f-431a-9e5a-984e0cbf4e8c" />
+)
+![PCB in Onshape](<img width="1280" height="669" alt="Screenshot 2026-09-24 162343" src="https://github.com/user-attachments/assets/ead19186-4186-40a2-85b8-2f772c1689b2" />
+)
 ## Repository layout
+dbf-sensor-lights/
+├── README.md                     (overview, schematic image, layout table, TODO)
+├── .gitignore                    (KiCad-friendly)
+├── hardware/
+│   ├── kicad/                    .kicad_pro, .kicad_pcb, .sch, 2× .kicad_prl
+│   └── fabrication/              (empty, for Gerbers/BOM later)
+├── firmware/README.md            (placeholder for the ATtiny13A code)
+├── cad/
+│   ├── sensor_light_controller.step
+│   └── drawings/sensor_light_controller_1_Drawing_1.pdf
+└── docs/
+    ├── report/PCB_Report.pdf
+    └── images/                   schematic, KiCad PCB view, KiCad 3D view, Onshape import
 
 | Path | Contents |
 |------|----------|
