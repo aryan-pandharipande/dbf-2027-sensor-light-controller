@@ -17,12 +17,18 @@ Light controller PCB for the towed sensor on the 2027 AIAA Design/Build/Fly airc
 
 ```text
 dbf-sensor-lights/
-├── README.md                    (overview, schematic image, layout table, TODO)
-├── .gitignore                   (KiCad-friendly)
-...
+├── README.md                     (overview, schematic image, layout table, TODO)
+├── .gitignore                    (KiCad-friendly)
+├── hardware/
+│   ├── kicad/                    .kicad_pro, .kicad_pcb, .sch, 2× .kicad_prl
+│   └── fabrication/              (empty, for Gerbers/BOM later)
+├── firmware/README.md            (placeholder for the ATtiny13A code)
+├── cad/
+│   ├── sensor_light_controller.step
+│   └── drawings/sensor_light_controller_1_Drawing_1.pdf
 └── docs/
     ├── report/PCB_Report.pdf
-    └── images/                  schematic, KiCad PCB view, KiCad 3D view, Onshape import
+    └── images/                   schematic, KiCad PCB view, KiCad 3D view, Onshape import
 ```
 | Path | Contents |
 |------|----------|
