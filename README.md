@@ -36,7 +36,7 @@ dbf-sensor-lights/
 | `hardware/fabrication/` | Gerbers, drill files, BOM, pick-and-place exports (to be generated) |
 | `firmware/` | ATtiny13A firmware (to be added) |
 | `cad/` | STEP model of the assembled PCB and the Onshape drawing PDF |
-| `docs/report/` | `PCB_Report.pdf`, the PCB proposal report |
+| `docs/report/` | `PCB_Report.pdf`, the PCB report, Made on LaTeX(Overleaf) |
 | `docs/images/` | Schematic, PCB editor, 3D view and Onshape screenshots |
 
 ## Notes
