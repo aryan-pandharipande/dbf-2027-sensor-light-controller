@@ -1,0 +1,16 @@
+# KiCad
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-cache.lib
+*-rescue.lib
+*-rescue.dcm
+fp-info-cache
+_autosave-*
+*.bak
+*.lck
+~*.lck
+# Build / OS
+build/
+.DS_Store
+Thumbs.db
