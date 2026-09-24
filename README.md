@@ -17,6 +17,7 @@ Light controller PCB for the towed sensor on the 2027 AIAA Design/Build/Fly airc
 
 ```text
 dbf-sensor-lights/
+├──dbf2027_block_diagram.png
 ├── README.md                     (overview, schematic image, layout table, TODO)
 ├── .gitignore                    (KiCad-friendly)
 ├── hardware/
